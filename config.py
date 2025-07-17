@@ -1,0 +1,9 @@
+MANAGER_ROLE_NAME = "管理層"
+NOT_PASSED_ROLE = "尚未考試"
+DIVER_ROLE = "潛水"
+LEAVE_ROLE = "請假中"
+TEAM_ROLES = ["一館隊員", "二館隊員", "三館隊員", "四館隊員"]
+NOT_PASSED_ROLE = "尚未考試"
+TEXT_CHANNEL = "文字聊天區"
+CHECKIN_CHANNEL = "請假點名區"
+LEAVE_REVIEW_CHANNEL = "請假批准"
