@@ -8,7 +8,7 @@ import os
 import csv
 from datetime import datetime, timedelta, timezone
 from config import *
-
+#Test token
 TOKEN = "MTM5NDI1Mjc4NzM2MTI1NTU0Ng.Gx27X0.25cbID2Yyle9oQ3ZCsHM3nWHXc5fdOUwGFrtjE"  # 你的 Bot Token
 
 intents = discord.Intents.all()
